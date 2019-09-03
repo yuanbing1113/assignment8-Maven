@@ -4,3 +4,4 @@
 # mvn compile
 # mvn package
 # mvn clean
+# GIT url https://github.com/yuanbing1113/assignment8-Maven
